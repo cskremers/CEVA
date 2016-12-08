@@ -1,0 +1,9 @@
+c:\users\cskre\documents\visual studio 2015\Projects\DatabaseConnect\DatabaseConnect\bin\Debug\DatabaseConnect.exe.config
+c:\users\cskre\documents\visual studio 2015\Projects\DatabaseConnect\DatabaseConnect\bin\Debug\DatabaseConnect.exe
+c:\users\cskre\documents\visual studio 2015\Projects\DatabaseConnect\DatabaseConnect\bin\Debug\DatabaseConnect.pdb
+c:\users\cskre\documents\visual studio 2015\Projects\DatabaseConnect\DatabaseConnect\obj\Debug\DatabaseConnect.csprojResolveAssemblyReference.cache
+c:\users\cskre\documents\visual studio 2015\Projects\DatabaseConnect\DatabaseConnect\obj\Debug\DatabaseConnect.Form1.resources
+c:\users\cskre\documents\visual studio 2015\Projects\DatabaseConnect\DatabaseConnect\obj\Debug\DatabaseConnect.Properties.Resources.resources
+c:\users\cskre\documents\visual studio 2015\Projects\DatabaseConnect\DatabaseConnect\obj\Debug\DatabaseConnect.csproj.GenerateResource.Cache
+c:\users\cskre\documents\visual studio 2015\Projects\DatabaseConnect\DatabaseConnect\obj\Debug\DatabaseConnect.exe
+c:\users\cskre\documents\visual studio 2015\Projects\DatabaseConnect\DatabaseConnect\obj\Debug\DatabaseConnect.pdb
